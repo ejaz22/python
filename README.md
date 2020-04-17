@@ -1,6 +1,12 @@
 # python
 
 ### Datetime date format with strftime()
+
+```python
+import datetime
+dt = datetie.date.today()
+```
+
 format    |result
 ---       |---
 %m/%d/%Y  |	09/21/2015
