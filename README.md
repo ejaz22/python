@@ -4,10 +4,10 @@
 
 ```python
 import datetime
-dt = datetie.date.today()
+dt = datetime.date.today()
 ```
 
-format    |result
+Format    |Result
 ---       |---
 %m/%d/%Y  |	09/21/2015
 %d/%m/%Y  |	21/09/2015
@@ -20,5 +20,3 @@ format    |result
 %X        |	08:58:12  (Locale Appropriate Time)
 %B%Y      |	Sep2018
 
-
-##################################################################################################3
