@@ -1,6 +1,6 @@
-# python
+# Python
 
-### Datetime date format with strftime()
+#### Datetime date format with strftime()
 
 ```python
 import datetime
